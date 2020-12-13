@@ -1,6 +1,13 @@
 # Courier App proposal for porter
 I spend alot of time of social media and it is no news people are constantly seeking reliable courier services as there has been an exponential increase in small scale businesses. This is why for the past month, i thought it might be a good idea to work on this app
 
+> Note: This is merely a summary and alot of the technical aspects are left 
+> out from this report.
+
+> The Design is just a template and can still be modified to suit Porter's taste.
+
+> The Application was built using a cross platform tool. This means it can run on both IOS and Android devices using a single codebase.
+
 ## Design
 The software is of the parts:
 - The client side app (For the clients to make orders)
@@ -42,3 +49,8 @@ To make payments, customers can easily do this on the app using thier card or ba
 |       |      |
 |-------|------|
 | ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173025.jpg?alt=media&token=aa156ea8-56b5-4ccc-82c9-e78915bc28fc)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173341.jpg?alt=media&token=2a88ad2e-9041-4b29-8b66-641456188c2b)|
+
+
+# The courier App (for the riders)
+When users make requests, the following happens
+- The 
