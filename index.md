@@ -7,4 +7,8 @@ The software is of the parts:
 - The courier app (For the riders)
 
 ### The client Side app
-The client side app is quite straight forward with a user firendly interface that allow users to make to make orders and track the state of their delivery.
+The client side app is quite straight forward with a user firendly interface that allow users to make to make orders and track the state of their delivery.  
+
+|       |      |
+|-------|------|
+| ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-172941.jpg?alt=media&token=e3f31878-efa4-4d3a-97bb-cd28f42956c2)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-172941.jpg?alt=media&token=e3f31878-efa4-4d3a-97bb-cd28f42956c2)|
