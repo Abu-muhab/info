@@ -29,3 +29,16 @@ Afetr enteriing the necessary details, the user is taken to an overview screen w
 |-------|------|
 | ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173246.jpg?alt=media&token=2277c3ca-c640-4ab6-9faa-ee8a5ddce7ea)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173257.jpg?alt=media&token=ee71497f-e882-45f1-b3dc-c9eb857e3e2c)|
 
+
+# Payment Integration
+To make payments, customers can easily do this on the app using thier card or bank. The payment gateway is secured and powered by Paystack.
+
+|       |      |
+|-------|------|
+| ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173312.jpg?alt=media&token=b0900726-b0ed-4a5a-9ee6-72a90a023a21)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173324.jpg?alt=media&token=09d0bbaf-f988-4b05-98e0-f21cad2adc58)|
+
+### More images of the client application
+
+|       |      |
+|-------|------|
+| ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173025.jpg?alt=media&token=aa156ea8-56b5-4ccc-82c9-e78915bc28fc)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-173341.jpg?alt=media&token=2a88ad2e-9041-4b29-8b66-641456188c2b)|
