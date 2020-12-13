@@ -9,7 +9,7 @@ I spend alot of time of social media and it is no news people are constantly see
 > The Application was built using a cross platform tool. This means it can run on both IOS and Android devices using a single codebase.
 
 ## Design
-The software is of the parts:
+The software is of two parts:
 - The client side app (For the clients to make orders)
 - The courier app (For the riders)
 
@@ -53,4 +53,19 @@ To make payments, customers can easily do this on the app using thier card or ba
 
 # The courier App (for the riders)
 When users make requests, the following happens
-- The 
+- The server assigns tasks to the couriers registered on the app
+- The server calculates the shortest path and the order in which the courier should carryout the assigned tasks.
+
+|       |      |
+|-------|------|
+| ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-183136.jpg?alt=media&token=d2177602-649d-40f6-8162-8f817bfd430f)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-183231.jpg?alt=media&token=85459bc9-9ea7-4718-bbd3-b9c7b671ca73)|
+
+|       |      |
+|-------|------|
+| ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-183241.jpg?alt=media&token=979eb867-2638-4787-a249-f145531d97fb)      |   ![Login](https://firebasestorage.googleapis.com/v0/b/delivery-client-5f214.appspot.com/o/Screenshot_20201213-183318.jpg?alt=media&token=591a0240-fd03-47b4-90be-6bea8a951c30)|
+
+
+> Note: This is merely a summary and alot of the technical aspects are left 
+> out from this report.
+
+## Thank you
