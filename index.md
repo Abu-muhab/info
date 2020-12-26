@@ -82,3 +82,27 @@ curl https://vazilegal.herokuapp.com/quiz/questions
     }
 }
 ```
+
+```
+"actions": {
+    "us": "5",
+    "nigeria": "8"
+},
+```
+> "actions" respresents the logic jump based on the answer to the question
+> in the above code block, if the user answers "us", the next question would be question 5. if the user answers "nigeria", the next question would be question 8
+
+```
+"actions": {
+    "yes": "4",
+    "no": "END"
+},
+```
+> In the above block, "END" means the user has alswered all that is required and the quiz should end
+
+```
+"actions": {
+    "any": 7
+},
+```
+> In the above block, "any" here means regardless of what was answered, the next question is 7
