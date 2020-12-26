@@ -116,7 +116,7 @@ curl https://vazilegal.herokuapp.com/quiz/submit_quiz
 -d "{
     "email": "abumuhab98@gmail.com",
     "responses": {
-        //questionId:answer
+        //questionId:user's response
         "1234RDFGH":"yes",
         "KKHFDFG56": "nigeria"
     }
