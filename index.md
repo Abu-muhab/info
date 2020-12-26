@@ -106,3 +106,26 @@ curl https://vazilegal.herokuapp.com/quiz/questions
 },
 ```
 > In the above block, "any" here means regardless of what was answered, the next question is 7
+
+## Submitting quiz
+
+>Request
+```
+curl https://vazilegal.herokuapp.com/quiz/submit_quiz
+-X POST
+-d "{
+    "email": "abumuhab98@gmail.com",
+    "responses": {
+        //questionId:answer
+        "1234RDFGH":"yes",
+        "KKHFDFG56": "nigeria"
+    }
+}"
+```
+> Response
+```
+{
+    successful: true,
+    message: 'Diagnosis successful'
+}
+```
